@@ -6,7 +6,7 @@ DIVISON:A
 """
     Provided a list representing a tour we create here
     the initial population for the Genetic Algorithm
-    to start from. Techniques to create are shuffle and elitism
+    to start from. Techniques to create are shuffle and
     with NN (nearest neighbor) techniques
 """
 
